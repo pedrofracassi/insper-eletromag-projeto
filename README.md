@@ -2,6 +2,6 @@
 
 #### Grupo:
 * João Antônio 
-Julia Figueiredo
-Pedro Fracassi
-Pedro Lacerda 
+* Julia Figueiredo
+* Pedro Fracassi
+* Pedro Lacerda 
