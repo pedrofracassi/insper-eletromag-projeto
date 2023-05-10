@@ -1,6 +1,6 @@
 ## Projeto Eletromag WPT
 
-# Grupo:
+#### Grupo:
 João Antônio 
 Julia Figueiredo
 Pedro Fracassi
